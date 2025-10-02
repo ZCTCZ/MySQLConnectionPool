@@ -1,0 +1,10 @@
+#数据库连接池的配置文件
+ip=127.0.0.1
+port=3306
+username=root
+password=zct010601
+dbname=test_db
+initSize=10
+maxSize=1024
+maxFreeTime=60 #连接的最大空闲时间（单位：s）
+connectionTimeOut=100 #建立连接时的超时时间（单位：ms）
