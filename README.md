@@ -1,3 +1,4 @@
+采用Connector/C++库用C++11设计的数据库连接池
 # 技术点
 
 - 基于Connector/C++库（9.4.0 64位 Debug版）的MySQL数据库编程
